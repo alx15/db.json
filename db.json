@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "category": "music",
+      "title": "The Beatles",
+      "description": "The Beatles were an English rock band formed in Liverpool in 1960. The group, whose best-known line-up comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr, are regarded as the most influential band of all time.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Beatles_-_Ed_Sullivan_Theater_-_New_York_-_1964.jpg/220px-Beatles_-_Ed_Sullivan_Theater_-_New_York_-_1964.jpg",
+      "date": "1960-01-01",
+      "location": "Liverpool, England",
+      "time": "20:00"
+    },
+    {
+      "id": "2",
+      "category": "music",
+      "title": "The Rolling Stones",
+      "description": "The Rolling Stones are an English rock band formed in London in 1962. The first stable line-up consisted of Brian Jones, Mick Jagger, Keith Richards, Bill Wyman, Charlie Watts, and Ian Stewart.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_Rolling_Stones_-_1964.jpg/220px-The_Rolling_Stones_-_1964.jpg",
+      "date": "1962-01-01",
+      "location": "London, England",
+      "time": "20:00"
+    },
+    {
+      "id": "3",
+      "category": "music",
+      "title": "The Who",
+      "description": "The Who are an English rock band formed in 1964. Their classic line-up consisted of lead singer Roger Daltrey, guitarist and singer Pete Townshend, bass guitarist John Entwistle, and drummer Keith Moon.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_Who_1964.jpg/220px-The_Who_1964.jpg",
+      "date": "1964-01-01",
+      "location": "London, England",
+      "time": "20:00"
+    },
+    {
+      "id": "4",
+      "category": "music",
+      "title": "The Kinks",
+      "description": "The Kinks were an English rock band formed in Muswell Hill, North London, in 1964 by brothers Ray and Dave Davies. They are regarded as one of the most important and influential rock bands of the 1960s.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_Kinks_1964.jpg/220px-The_Kinks_1964.jpg",
+      "date": "1964-01-01",
+      "location": "London, England",
+      "time": "20:00"
+    }
+  ]
+}
